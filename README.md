@@ -1,10 +1,10 @@
-                                                              Hi 👋 I’m Kiki
+                                                  Hi 👋 I’m Kiki
                                                               
-                                                     A student of iSpan's Java Class.
+                                         A student of iSpan's Java Class.
                                                      
-                                              Currently learning Java, SQL, HTML, CSS...etc.
+                                  Currently learning Java, SQL, HTML, CSS...etc.
                                               
-                                                     Will Graduate in 29th July 2022 🎓 ✨
+                                        Will Graduate in 29th July 2022 🎓 ✨
   
 <!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
