@@ -1,24 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-  
-  <center>Hi 👋 I’m Kiki </center>
+ 
+<p align="center">Hi 👋 I’m Kiki </p>
                                                              
-<p aligh="center">A student of iSpan's Java Class.</p>
+<p align="center">A student of iSpan's Java Class.</p>
                                                      
-<p aligh="center">Currently learning Java, SQL, HTML, CSS...etc.</p>
+<p align="center">Currently learning Java, SQL, HTML, CSS...etc.</p>
                                               
-<p aligh="center">Will Graduate in 29th July 2022 🎓 ✨</p>
-  
-</body>
-</html>
+<p align="center">Will Graduate in 29th July 2022 🎓 ✨</p>
 
 
 
