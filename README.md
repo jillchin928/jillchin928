@@ -1,4 +1,4 @@
-<p aligh="center">Hi 👋 I’m Kiki </p>
+<center>Hi 👋 I’m Kiki </center>
                                                              
 <p aligh="center">A student of iSpan's Java Class.</p>
                                                      
