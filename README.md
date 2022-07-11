@@ -28,7 +28,7 @@
 <img src="https://cdn.cdnlogo.com/logos/t/39/tomcat.svg" width="36px" height="36px"/>
 <img src="https://github.com/KikiJin24/iSpan_HTML_CSS/blob/main/website/images/bootstrap-1.png" height="42px"/>
 <img src="https://github.com/KikiJin24/iSpan_HTML_CSS/blob/main/website/images/spring.png" height="34px"/>
-<img src="https://github.com/KikiJin24/iSpan_HTML_CSS/blob/main/website/images/jquery-2.png" height="36px"/>
+<img src="https://github.com/KikiJin24/iSpan_HTML_CSS/blob/main/website/images/jquery-2.png" height="42px"/>
 <img src="https://github.com/KikiJin24/iSpan_HTML_CSS/blob/main/website/images/ajax.png" height="34px"/>
 </div>
 
