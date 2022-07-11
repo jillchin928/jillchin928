@@ -24,7 +24,6 @@
 <img src="https://cdn.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" width="38px"/>
 <img src="https://github.com/KikiJin24/iSpan_HTML_CSS/blob/main/website/images/html.svg" width="36px"/>
 <img src="https://github.com/KikiJin24/iSpan_HTML_CSS/blob/main/website/images/css.svg" width="36px"/>
-<img src="https://cdn.cdnlogo.com/logos/j/69/javascript.svg" width="36px"/>
+<img src="https://cdn.cdnlogo.com/logos/j/69/javascript.svg" width="36px" height="36px"/>
 <img src="https://cdn.cdnlogo.com/logos/t/39/tomcat.svg" width="36px"/>
-<img src="https://cdn.cdnlogo.com/logos/j/71/jquery.svg" width="36px"/>
 </div>
