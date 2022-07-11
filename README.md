@@ -2,8 +2,10 @@
 <p align="center">Hi 👋 I’m Kiki </p>
                                                              
 <p align="center">A student of iSpan's EEIT Class.</p>
+
+<p align="center">The leader of our second group.</p>
                                                      
-<p align="center">Currently learning Java, SQL, HTML, CSS, JavaScript, jQuery, Servlet&JSP, Ajax...etc.</p>
+<p align="center">Currently learning Java, SQL, HTML, CSS, JavaScript, jQuery, Servlet&JSP, Ajax, Spring, Spring MVC, Spring Boot, Spring Security, Node.js...etc.</p>
                                               
 <p align="center">Will Graduate in 29th July 2022 🎓 ✨</p>
 
@@ -33,7 +35,7 @@
 </div>
 
 <div align=center>
- <img src="https://github.com/KikiJin24/iSpan_HTML_CSS/blob/main/website/images/JQuery-1.png" height="36px">
- <img src="https://github.com/KikiJin24/iSpan_HTML_CSS/blob/main/website/images/Azure-1.png" height="36px">
+<img src="https://github.com/KikiJin24/iSpan_HTML_CSS/blob/main/website/images/JQuery-1.png" height="36px">
+<img src="https://github.com/KikiJin24/iSpan_HTML_CSS/blob/main/website/images/Azure-1.png" height="36px">
 
 </div>
