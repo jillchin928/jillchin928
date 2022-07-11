@@ -29,11 +29,11 @@
 <img src="https://github.com/KikiJin24/iSpan_HTML_CSS/blob/main/website/images/bootstrap-1.png" width="42px"/>
 <img src="https://github.com/KikiJin24/iSpan_HTML_CSS/blob/main/website/images/spring.png" height="34px"/>
 <!-- <img src="https://github.com/KikiJin24/iSpan_HTML_CSS/blob/main/website/images/jquery-2.png" height="42px"/> -->
-
+<img src="https://github.com/KikiJin24/iSpan_HTML_CSS/blob/main/website/images/ajax.png" height="34px"/>
 </div>
 
 <div align=center>
  <img src="https://github.com/KikiJin24/iSpan_HTML_CSS/blob/main/website/images/JQuery-1.png" height="36px">
  <img src="https://github.com/KikiJin24/iSpan_HTML_CSS/blob/main/website/images/Azure-1.png" height="36px">
- <img src="https://github.com/KikiJin24/iSpan_HTML_CSS/blob/main/website/images/ajax.png" height="36px"/>
+
 </div>
