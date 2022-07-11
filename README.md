@@ -35,5 +35,5 @@
 <div align=center>
  <img src="https://github.com/KikiJin24/iSpan_HTML_CSS/blob/main/website/images/JQuery-1.png" height="36px">
  <img src="https://github.com/KikiJin24/iSpan_HTML_CSS/blob/main/website/images/Azure-1.png" height="36px">
- <img src="https://github.com/KikiJin24/iSpan_HTML_CSS/blob/main/website/images/ajax.png" height="34px"/>
+ <img src="https://github.com/KikiJin24/iSpan_HTML_CSS/blob/main/website/images/ajax.png" height="36px"/>
 </div>
